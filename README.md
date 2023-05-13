@@ -1,5 +1,5 @@
 # 💫 About Sever!
-😄 Pronouns: He/His<br>🔭 I’m currently building Seversoft Technologies.<br>🌱 I’m currently learning more about Full Stack to Advance in A.I .<br>👯 I’m open source.<br>🤔 I’m looking for help in anything TecH.<br>💬 Ask me about Flutter or any tech-related stuff.<br>📫 How to reach me: LinkedIn - @seversoftech, Facebook - @seversoftech, Twitter - @seversoftech <br>⚡ Fun fact: I can make you smile.
+😄 Pronouns: He/His<br>🔭 I’m currently building Seversoft Technologies.<br>🌱 I’m currently learning more about Full Stack to Advance in A.I .<br>👯 I’m open source.<br>🤔 I’m looking for help in anything TecH.<br>💬 Ask me about Flutter or any tech-related stuff.<br>📫 How to reach me: Via the social links below. <br>⚡ Fun fact: I can make you smile.
 
 
 ## 🌐 Socials:
